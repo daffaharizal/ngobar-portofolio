@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap");
+
+* {
+  background-color: #171717;
+  color: white;
+}
 
 /* Navbar */
 .navbar .logo-name {
@@ -15,6 +21,18 @@
 
 /* Akhir navbar */
 
-/* Jumbotron */
+/* Header */
+#header {
+  font-family: "Archivo", sans-serif;
+}
 
-/* Akhir jumbotron */
+#header h4 {
+  color: #079211;
+  font-weight: 800;
+}
+
+#header h1 {
+  font-weight: 800;
+}
+
+/* Akhir header */
