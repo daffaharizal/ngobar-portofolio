@@ -1,9 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@400;600;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap");
 
 /* Navbar */
-.logo-name {
-  font-family: "Prompt", sans-serif;
+.navbar .logo-name {
+  font-family: "Bakbak One", cursive;
+}
+
+#navbarNav .nav-link {
   font-weight: 600;
+}
+
+#navbarNav .nav-item .nav-link:hover {
+  color: #ffffffb0;
 }
 
 /* Akhir navbar */
