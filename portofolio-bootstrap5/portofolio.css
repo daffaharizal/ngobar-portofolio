@@ -5,6 +5,7 @@
 * {
   background-color: #171717;
   color: white;
+  font-family: "Roboto", sans-serif;
 }
 
 /* Navbar */
@@ -32,12 +33,14 @@
   color: #079211;
   font-weight: 800;
   font-size: 18px;
+  font-family: "Archivo", sans-serif;
 }
 
 #header h1 {
   font-weight: 800;
   font-size: 28px;
   margin-top: 10px;
+  font-family: "Archivo", sans-serif;
 }
 
 #header p {
@@ -50,6 +53,10 @@
 
 #header img {
   width: 65%;
+}
+
+#header .btn-primary i {
+  background-color: 0%;
 }
 /* Akhir header */
 
@@ -96,7 +103,7 @@
     letter-spacing: 0.1px;
   }
 
-  #header img {
+  #header #header img {
     width: 320px;
   }
   /* Akhir header */
