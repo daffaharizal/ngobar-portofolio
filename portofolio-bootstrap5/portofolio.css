@@ -27,6 +27,7 @@
 /* Header */
 #header {
   font-family: "Archivo", sans-serif;
+  padding-top: 20px;
 }
 
 #header h4 {
@@ -60,6 +61,16 @@
 }
 /* Akhir header */
 
+/* Familiar */
+#familiar {
+  padding-top: 5%;
+}
+
+#familiar h4 {
+  color: #079211;
+  font-family: "Archivo", sans-serif;
+}
+
 /* =================================================== */
 
 /* CSS DEKSTOP */
@@ -79,6 +90,7 @@
   /* Header */
   #header {
     font-family: "Archivo", sans-serif;
+    padding-top: 50px;
   }
 
   #header h4 {
@@ -103,8 +115,8 @@
     letter-spacing: 0.1px;
   }
 
-  #header #header img {
-    width: 320px;
+  #header img {
+    width: 250px;
   }
   /* Akhir header */
 }
