@@ -3,9 +3,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
 * {
-  background-color: #171717;
+  /* background-color: #171717; */
   color: white;
   font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #171717;
 }
 
 /* Navbar */
@@ -14,9 +18,10 @@
 }
 
 #navbarNav .nav-link {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 16px;
   color: #079211;
+  font-family: "Archivo", sans-serif;
 }
 
 #navbarNav .nav-item .nav-link:hover {
@@ -58,6 +63,7 @@
 
 #header .btn-primary i {
   background-color: 0%;
+  color: white;
 }
 /* Akhir header */
 
@@ -78,8 +84,9 @@
   /* Navbar */
 
   #navbarNav .nav-link {
-    font-weight: 600;
+    font-weight: 500;
     color: white;
+    font-family: "Archivo", sans-serif;
   }
 
   #navbarNav .nav-item .nav-link:hover {
