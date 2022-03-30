@@ -52,18 +52,23 @@ body {
 #header p {
   font-family: "Roboto", sans-serif;
   margin-top: 20px;
-  color: rgb(191, 191, 191);
   font-weight: 400;
   letter-spacing: 0.1px;
+  color: darkgray;
 }
 
 #header img {
-  width: 65%;
+  width: 55%;
 }
 
-#header .btn-primary i {
+#header .buttoncv i {
   background-color: 0%;
-  color: white;
+  color: darkgray;
+}
+
+#header .buttoncv {
+  text-decoration: none;
+  color: darkgray;
 }
 /* Akhir header */
 
