@@ -6,6 +6,7 @@
   /* background-color: #171717; */
   color: white;
   font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
