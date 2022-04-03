@@ -33,7 +33,7 @@ body {
 /* Header */
 #header {
   font-family: "Archivo", sans-serif;
-  padding-top: 20px;
+  padding-top: 100px;
 }
 
 #header h4 {
@@ -75,13 +75,22 @@ body {
 
 /* Familiar */
 #familiar {
-  padding-top: 5%;
+  padding-top: 10%;
+}
+
+#familiar .row {
+  padding-bottom: 2%;
 }
 
 #familiar h4 {
   color: #079211;
   font-family: "Archivo", sans-serif;
   font-weight: 700;
+}
+
+#familiar .row img {
+  height: 30%;
+  color: blueviolet;
 }
 
 /* =================================================== */
@@ -133,6 +142,17 @@ body {
     width: 250px;
   }
   /* Akhir header */
+
+  /* Familiar */
+  #familiar {
+    padding-top: 5%;
+  }
+
+  #familiar .row img {
+    height: 60%;
+    color: blueviolet;
+  }
+  /* Akhir familiar */
 }
 
 /* CSS DESKTOP */
